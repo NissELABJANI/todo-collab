@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    background: #f9fafb;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    background: #1f2937;
+    color: white;
+    padding: 1rem;
+  }
+  
+  nav a {
+    color: black;
+    margin-right: 1rem;
+    text-decoration: none;
+  }
+  
+  button {
+    background-color: #3b82f6;
+    border: none;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 0.5rem;
+  }
+  
+  ul {
+    padding-left: 1.5rem;
+  }
+  
